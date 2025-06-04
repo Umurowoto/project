@@ -20,7 +20,7 @@ Bootstrap 5.3
 Folder Structure
 Getting Started
 Clone the repository
-git clone https://github.com/your-username/cd-baby-landing.git
+git clone https://github.com/Umurowoto/cd-baby-landing.git
 Navigate to the project folder
 cd cd-baby-landing
 Open index.html in your browser
