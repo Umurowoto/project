@@ -1,0 +1,18 @@
+#main {
+    background: linear-gradient(to right, #2d0b26, #3d003f);
+height: 65vh;}
+
+#publishing{
+    background: orangered;
+}
+
+#disk{
+}
+
+#advantages{
+    background: linear-gradient(to right, #3d003f, #2d0b26);    
+}
+
+#pricing{
+    background: orange;
+}
